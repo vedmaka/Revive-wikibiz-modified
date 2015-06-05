@@ -1,0 +1,466 @@
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_account_preference_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table account_preference_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_account_user_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table account_user_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_account_user_permission_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table account_user_permission_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_accounts
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table accounts
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_acls
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table acls
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_acls_channel
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table acls_channel
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_ad_category_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table ad_category_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_ad_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table ad_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_affiliates
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table affiliates
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_affiliates_extra
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table affiliates_extra
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_agency
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table agency
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_application_variable
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table application_variable
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_audit
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table audit
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_banners
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table banners
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_campaigns
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table campaigns
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_campaigns_trackers
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table campaigns_trackers
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_category
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table category
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_channel
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table channel
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_clients
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table clients
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_intermediate_ad
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_intermediate_ad
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_intermediate_ad_connection
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_intermediate_ad_connection
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_intermediate_ad_variable_value
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_intermediate_ad_variable_value
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_raw_ad_click
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_raw_ad_click
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_raw_ad_impression
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_raw_ad_impression
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_raw_ad_request
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_raw_ad_request
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_raw_tracker_impression
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_raw_tracker_impression
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_raw_tracker_variable_value
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_raw_tracker_variable_value
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_summary_ad_hourly
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_summary_ad_hourly
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_summary_ad_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_summary_ad_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_summary_channel_daily
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_summary_channel_daily
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_data_summary_zone_impression_history
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table data_summary_zone_impression_history
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_images
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table images
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_log_maintenance_forecasting
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table log_maintenance_forecasting
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_log_maintenance_priority
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table log_maintenance_priority
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_log_maintenance_statistics
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table log_maintenance_statistics
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_password_recovery
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table password_recovery
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_placement_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table placement_zone_assoc
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_preferences
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table preferences
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_session
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table session
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_targetstats
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table targetstats
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_tracker_append
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table tracker_append
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_trackers
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table trackers
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_userlog
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table userlog
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_users
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table users
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_variable_publisher
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table variable_publisher
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_variables
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table variables
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop table rv_zones
+Jun 05 22:05:56 Московское время (зима) OX-5571e5037e2e3 [    error]  Unable to drop the table zones
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  starting _checkPackageContents openXBannerTypes.xml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  expecting definition openXBannerTypes.xml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  detected plugin definition file /plugins/etc/openXBannerTypes.xml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  detected group definition file /plugins/etc/oxText/oxText.xml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  detected group definition file /plugins/etc/oxHtml/oxHtml.xml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkOpenXCompatibility for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkSystemEnvironment for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkDatabaseEnvironment for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _runScript for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkDependenciesForInstallOrEnable for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkFiles for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkNavigationCheckers for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkMenus for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerSchema for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerPreferences for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerSettings for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing disableComponentGroup for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerPluginVersion for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _runScript for oxHtml
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkOpenXCompatibility for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkSystemEnvironment for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkDatabaseEnvironment for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _runScript for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkDependenciesForInstallOrEnable for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkFiles for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkNavigationCheckers for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _checkMenus for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerSchema for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerPreferences for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerSettings for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing disableComponentGroup for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _registerPluginVersion for oxText
+Jun 05 22:06:20 Московское время (зима) OX-plugins-5571e51bb9481 [     info]  Executing _runScript for oxText
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  starting _checkPackageContents openXDeliveryLimitations.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  expecting definition openXDeliveryLimitations.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  detected group definition file /plugins/etc/Time/Time.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  detected group definition file /plugins/etc/Site/Site.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  detected group definition file /plugins/etc/Client/Client.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  detected plugin definition file /plugins/etc/openXDeliveryLimitations.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  detected group definition file /plugins/etc/Geo/Geo.xml
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkOpenXCompatibility for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkSystemEnvironment for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDatabaseEnvironment for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDependenciesForInstallOrEnable for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkFiles for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkNavigationCheckers for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkMenus for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSchema for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPreferences for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSettings for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing disableComponentGroup for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPluginVersion for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Client
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkOpenXCompatibility for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkSystemEnvironment for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDatabaseEnvironment for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDependenciesForInstallOrEnable for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkFiles for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkNavigationCheckers for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkMenus for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSchema for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPreferences for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSettings for Geo
+Jun 05 22:06:24 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing disableComponentGroup for Geo
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPluginVersion for Geo
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Geo
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkOpenXCompatibility for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkSystemEnvironment for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDatabaseEnvironment for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDependenciesForInstallOrEnable for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkFiles for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkNavigationCheckers for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkMenus for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSchema for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPreferences for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSettings for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing disableComponentGroup for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPluginVersion for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Site
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkOpenXCompatibility for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkSystemEnvironment for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDatabaseEnvironment for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkDependenciesForInstallOrEnable for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkFiles for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkNavigationCheckers for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _checkMenus for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSchema for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPreferences for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerSettings for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing disableComponentGroup for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _registerPluginVersion for Time
+Jun 05 22:06:25 Московское время (зима) OX-plugins-5571e51fc6d5c [     info]  Executing _runScript for Time
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  starting _checkPackageContents openX3rdPartyServers.xml
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  expecting definition openX3rdPartyServers.xml
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  detected plugin definition file /plugins/etc/openX3rdPartyServers.xml
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  detected group definition file /plugins/etc/ox3rdPartyServers/ox3rdPartyServers.xml
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkOpenXCompatibility for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkSystemEnvironment for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkDatabaseEnvironment for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _runScript for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkDependenciesForInstallOrEnable for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkFiles for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkNavigationCheckers for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _checkMenus for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _registerSchema for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _registerPreferences for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _registerSettings for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing disableComponentGroup for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _registerPluginVersion for ox3rdPartyServers
+Jun 05 22:06:30 Московское время (зима) OX-plugins-5571e525d56d6 [     info]  Executing _runScript for ox3rdPartyServers
+Jun 05 22:06:33 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  starting _checkPackageContents openXReports.xml
+Jun 05 22:06:33 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  expecting definition openXReports.xml
+Jun 05 22:06:33 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  detected group definition file /plugins/etc/oxReportsAdmin/oxReportsAdmin.xml
+Jun 05 22:06:33 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  detected plugin definition file /plugins/etc/openXReports.xml
+Jun 05 22:06:33 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  detected group definition file /plugins/etc/oxReportsStandard/oxReportsStandard.xml
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkOpenXCompatibility for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkSystemEnvironment for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkDatabaseEnvironment for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _runScript for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkFiles for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkNavigationCheckers for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkMenus for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerSchema for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerPreferences for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerSettings for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing disableComponentGroup for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerPluginVersion for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _runScript for oxReportsStandard
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkOpenXCompatibility for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkSystemEnvironment for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkDatabaseEnvironment for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _runScript for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkFiles for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkNavigationCheckers for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _checkMenus for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerSchema for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerPreferences for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerSettings for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing disableComponentGroup for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _registerPluginVersion for oxReportsAdmin
+Jun 05 22:06:34 Московское время (зима) OX-plugins-5571e529ae1e1 [     info]  Executing _runScript for oxReportsAdmin
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  starting _checkPackageContents openXDeliveryCacheStore.xml
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  expecting definition openXDeliveryCacheStore.xml
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  detected group definition file /plugins/etc/oxMemcached/oxMemcached.xml
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  detected plugin definition file /plugins/etc/openXDeliveryCacheStore.xml
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  detected group definition file /plugins/etc/oxCacheFile/oxCacheFile.xml
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkOpenXCompatibility for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkSystemEnvironment for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkDatabaseEnvironment for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _runScript for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkDependenciesForInstallOrEnable for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkFiles for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkNavigationCheckers for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkMenus for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerSchema for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerPreferences for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerSettings for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing disableComponentGroup for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerPluginVersion for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _runScript for oxCacheFile
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkOpenXCompatibility for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkSystemEnvironment for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkDatabaseEnvironment for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _runScript for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkDependenciesForInstallOrEnable for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkFiles for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkNavigationCheckers for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _checkMenus for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerSchema for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerPreferences for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerSettings for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing disableComponentGroup for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _registerPluginVersion for oxMemcached
+Jun 05 22:06:38 Московское время (зима) OX-plugins-5571e52e0d7c4 [     info]  Executing _runScript for oxMemcached
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  starting _checkPackageContents openXMaxMindGeoIP.xml
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  expecting definition openXMaxMindGeoIP.xml
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  detected plugin definition file /plugins/etc/openXMaxMindGeoIP.xml
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  detected group definition file /plugins/etc/oxMaxMindGeoIP/oxMaxMindGeoIP.xml
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkOpenXCompatibility for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkSystemEnvironment for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkDatabaseEnvironment for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _runScript for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkDependenciesForInstallOrEnable for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkFiles for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkNavigationCheckers for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _checkMenus for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _registerSchema for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _registerPreferences for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _registerSettings for oxMaxMindGeoIP
+Jun 05 22:06:42 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing disableComponentGroup for oxMaxMindGeoIP
+Jun 05 22:06:43 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _registerPluginVersion for oxMaxMindGeoIP
+Jun 05 22:06:43 Московское время (зима) OX-plugins-5571e5327a059 [     info]  Executing _runScript for oxMaxMindGeoIP
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  starting _checkPackageContents openXInvocationTags.xml
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  expecting definition openXInvocationTags.xml
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  detected group definition file /plugins/etc/oxInvocationTags/oxInvocationTags.xml
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  detected plugin definition file /plugins/etc/openXInvocationTags.xml
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkOpenXCompatibility for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkSystemEnvironment for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkDatabaseEnvironment for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _runScript for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkDependenciesForInstallOrEnable for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkFiles for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkNavigationCheckers for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _checkMenus for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _registerSchema for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _registerPreferences for oxInvocationTags
+Jun 05 22:06:47 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _registerSettings for oxInvocationTags
+Jun 05 22:06:48 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing disableComponentGroup for oxInvocationTags
+Jun 05 22:06:48 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _registerPluginVersion for oxInvocationTags
+Jun 05 22:06:48 Московское время (зима) OX-plugins-5571e53754b24 [     info]  Executing _runScript for oxInvocationTags
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  starting _checkPackageContents openXDeliveryLog.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  expecting definition openXDeliveryLog.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected plugin definition file /plugins/etc/openXDeliveryLog.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected group definition file /plugins/etc/oxLogRequest/oxLogRequest.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected group definition file /plugins/etc/oxLogConversion/oxLogConversion.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected group definition file /plugins/etc/oxLogImpression/oxLogImpression.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected group definition file /plugins/etc/oxLogClick/oxLogClick.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  detected group definition file /plugins/etc/oxDeliveryDataPrepare/oxDeliveryDataPrepare.xml
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkOpenXCompatibility for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkSystemEnvironment for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDatabaseEnvironment for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkFiles for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkNavigationCheckers for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkMenus for oxDeliveryDataPrepare
+Jun 05 22:06:53 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSchema for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPreferences for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSettings for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing disableComponentGroup for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPluginVersion for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxDeliveryDataPrepare
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkOpenXCompatibility for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkSystemEnvironment for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDatabaseEnvironment for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkFiles for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkNavigationCheckers for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkMenus for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSchema for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPreferences for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSettings for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing disableComponentGroup for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPluginVersion for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogClick
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkOpenXCompatibility for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkSystemEnvironment for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDatabaseEnvironment for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkFiles for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkNavigationCheckers for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkMenus for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSchema for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPreferences for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSettings for oxLogConversion
+Jun 05 22:06:54 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing disableComponentGroup for oxLogConversion
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPluginVersion for oxLogConversion
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogConversion
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkOpenXCompatibility for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkSystemEnvironment for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDatabaseEnvironment for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkFiles for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkNavigationCheckers for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkMenus for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSchema for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPreferences for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSettings for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing disableComponentGroup for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPluginVersion for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogImpression
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkOpenXCompatibility for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkSystemEnvironment for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDatabaseEnvironment for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkFiles for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkNavigationCheckers for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _checkMenus for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSchema for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPreferences for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerSettings for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing disableComponentGroup for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _registerPluginVersion for oxLogRequest
+Jun 05 22:06:55 Московское время (зима) OX-plugins-5571e53d4b9aa [     info]  Executing _runScript for oxLogRequest
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  starting _checkPackageContents openXVideoAds.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  expecting definition openXVideoAds.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected group definition file /plugins/etc/videoReport/videoReport.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected group definition file /plugins/etc/oxLogVast/oxLogVast.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected plugin definition file /plugins/etc/openXVideoAds.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected group definition file /plugins/etc/vastInlineBannerTypeHtml/vastInlineBannerTypeHtml.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected group definition file /plugins/etc/vastServeVideoPlayer/vastServeVideoPlayer.xml
+Jun 05 22:07:04 Московское время (зима) OX-plugins-5571e5484de60 [     info]  detected group definition file /plugins/etc/vastOverlayBannerTypeHtml/vastOverlayBannerTypeHtml.xml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkOpenXCompatibility for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkSystemEnvironment for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDatabaseEnvironment for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDependenciesForInstallOrEnable for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkFiles for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkNavigationCheckers for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkMenus for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSchema for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPreferences for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSettings for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing disableComponentGroup for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPluginVersion for vastInlineBannerTypeHtml
+Jun 05 22:07:05 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkOpenXCompatibility for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkSystemEnvironment for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDatabaseEnvironment for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDependenciesForInstallOrEnable for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkFiles for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkNavigationCheckers for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkMenus for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSchema for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPreferences for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSettings for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing disableComponentGroup for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPluginVersion for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkOpenXCompatibility for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkSystemEnvironment for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDatabaseEnvironment for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkFiles for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkNavigationCheckers for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkMenus for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSchema for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPreferences for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSettings for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing disableComponentGroup for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPluginVersion for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for oxLogVast
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkOpenXCompatibility for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkSystemEnvironment for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDatabaseEnvironment for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDependenciesForInstallOrEnable for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkFiles for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkNavigationCheckers for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkMenus for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSchema for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPreferences for vastServeVideoPlayer
+Jun 05 22:07:06 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSettings for vastServeVideoPlayer
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing disableComponentGroup for vastServeVideoPlayer
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPluginVersion for vastServeVideoPlayer
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for vastServeVideoPlayer
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkOpenXCompatibility for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkSystemEnvironment for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDatabaseEnvironment for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkDependenciesForInstallOrEnable for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkFiles for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkNavigationCheckers for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _checkMenus for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSchema for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPreferences for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerSettings for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing disableComponentGroup for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _registerPluginVersion for videoReport
+Jun 05 22:07:07 Московское время (зима) OX-plugins-5571e5484de60 [     info]  Executing _runScript for videoReport

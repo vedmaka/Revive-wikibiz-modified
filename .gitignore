@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/var/mw3.local.conf.php
+/var/templates_compiled
+/var/cache
+/var/default.conf.php
