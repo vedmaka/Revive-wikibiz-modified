@@ -2251,6 +2251,6 @@ p {
   font-weight:bold;
 }
 
-form[name="form_sign"] #accsel option:last-child {
+form[name="form_sign"] #accsel {
     display: none;
 }
