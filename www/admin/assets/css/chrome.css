@@ -2254,3 +2254,7 @@ p {
 form[name="form_sign"] #accsel {
     display: none;
 }
+
+form[name="form_sign"] table tr:nth-child(1) table tr:first-child {
+    display: none;
+}
