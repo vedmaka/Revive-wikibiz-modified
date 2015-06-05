@@ -2251,3 +2251,6 @@ p {
   font-weight:bold;
 }
 
+form[name="form_sign"] #accsel option:last-child {
+    display: none;
+}
